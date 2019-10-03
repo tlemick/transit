@@ -1,0 +1,9 @@
+.abs {
+  position:absolute; 
+  top:0; 
+  left:0; 
+  width:450px; 
+  height:100vh; 
+  background-color:rgb(83, 83, 83); z-index: 2;
+  opacity: .3;
+}
